@@ -28,18 +28,17 @@ Optional setup service: **$99**
 
 ## How to buy
 
-Add a checkout link here:
+[Buy the POD Launch Audit Kit — $19](https://example.com/checkout/pod-launch-audit-kit)
 
-- Gumroad
-- Lemon Squeezy
-- Stripe Payment Link
-- Ko-fi
-- Buy Me a Coffee
-- GitHub Sponsors tier
+This is the checkout rail placeholder. Replace it with one real payment link from Stripe, Gumroad, Lemon Squeezy, Ko-fi, Buy Me a Coffee, or GitHub Sponsors.
 
 ## Delivery
 
-After purchase, buyers receive the latest release ZIP plus setup notes.
+After purchase, buyers receive the latest release ZIP plus setup notes:
+
+```text
+https://github.com/Kingomnigod/pod-profit-scout/archive/refs/heads/main.zip
+```
 
 ## Support intake
 

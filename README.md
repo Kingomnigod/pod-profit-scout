@@ -47,9 +47,13 @@ GitHub itself is the proof and distribution hub. The paid version can be sold th
 
 GitHub does not work like Etsy for ordinary digital files. For fastest cash, use GitHub as the credibility page and attach an external checkout link.
 
-## Suggested first offer
+## Buy / checkout rail
 
 **$19 POD Launch Audit Kit**
+
+[Buy the POD Launch Audit Kit — $19](https://example.com/checkout/pod-launch-audit-kit)
+
+This placeholder should be replaced with one real payment link from Stripe, Gumroad, Lemon Squeezy, Ko-fi, Buy Me a Coffee, or GitHub Sponsors. The repo is ready to sell as soon as that URL is live.
 
 Includes:
 - This readiness checker
@@ -58,6 +62,10 @@ Includes:
 - Metadata template
 - 30-minute setup add-on offered separately
 
+Optional setup service: **$99** through GitHub Issues.
+
+See `CHECKOUT.md` for the exact buyer flow, delivery copy, and setup-service intake.
+
 ## Files
 
 - `pod_profit_scout.py` — readiness checker
@@ -65,6 +73,7 @@ Includes:
 - `templates/product_metadata_template.csv` — metadata starter template
 - `templates/launch_checklist.md` — checklist for publishing
 - `SALES_PAGE.md` — copy for the GitHub repo or external checkout page
+- `CHECKOUT.md` — checkout rail, delivery copy, and setup-service intake
 
 ## License
 
