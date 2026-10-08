@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "sku": "POD-ST-001",
+      "title": "Do Not Fall Behind Sticker",
+      "price": "4.99",
+      "tags": ["sticker", "motivation", "founder", "ai", "productivity"],
+      "image": "sample_assets/do-not-fall-behind.png",
+      "mockup": "sample_assets/do-not-fall-behind-mockup.png"
+    },
+    {
+      "sku": "POD-TS-001",
+      "title": "Empire Builder Shirt",
+      "price": "24.99",
+      "tags": ["shirt", "founder", "empire", "startup", "builder"],
+      "image": "sample_assets/empire-builder.png",
+      "mockup": "sample_assets/empire-builder-mockup.png"
+    }
+  ]
+}
