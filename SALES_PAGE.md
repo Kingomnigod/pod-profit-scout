@@ -28,9 +28,9 @@ Optional setup service: **$99**
 
 ## How to buy
 
-[Support / buy through GitHub Sponsors](https://github.com/sponsors/Kingomnigod)
+[Contact / support through GitHub](https://github.com/Kingomnigod)
 
-Stripe is the intended direct checkout rail, but it is not connected yet. Until it is connected, GitHub Sponsors is the GitHub-native payment/support rail linked from the product page.
+Stripe is the intended direct checkout rail, but it is not connected yet. Until it is connected, this GitHub profile link is the public contact/support rail linked from the product page.
 
 ## Delivery
 

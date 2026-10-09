@@ -19,13 +19,13 @@ Upsell:
 
 ## Live checkout URL
 
-Current GitHub-native checkout/support rail:
+Current public contact/support rail:
 
 ```text
-https://github.com/sponsors/Kingomnigod
+https://github.com/Kingomnigod
 ```
 
-Stripe is still the preferred direct product checkout once connected. For now, GitHub Sponsors is the live GitHub-side rail to receive paid support from the product page.
+Stripe is still the preferred direct product checkout once connected. For now, this GitHub profile link is the public GitHub-side contact/support rail from the product page.
 
 Recommended fastest rails:
 1. Stripe Payment Link
@@ -66,7 +66,7 @@ https://github.com/Kingomnigod/pod-profit-scout/issues
 Use this Markdown button once the checkout URL is real:
 
 ```md
-[Buy the POD Launch Audit Kit — $19](https://github.com/sponsors/Kingomnigod)
+[Buy the POD Launch Audit Kit — $19](https://github.com/Kingomnigod)
 ```
 
 ## Setup service intake
@@ -81,4 +81,4 @@ For the $99 setup service, ask the buyer to open a GitHub Issue with:
 
 ## Verification status
 
-The product is staged and functional locally. Payment is not live until the placeholder checkout URL is replaced with a real provider URL.
+The product is staged and functional locally. Payment is not live until this contact/support URL is replaced with a real provider checkout URL.
