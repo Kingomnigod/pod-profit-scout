@@ -19,13 +19,13 @@ Upsell:
 
 ## Live checkout URL
 
-Current public contact/support rail:
+Current Stripe test checkout URL:
 
 ```text
-https://github.com/Kingomnigod
+https://buy.stripe.com/test_8x2eVegjY0mE8QEfASd3i00
 ```
 
-Stripe is still the preferred direct product checkout once connected. For now, this GitHub profile link is the public GitHub-side contact/support rail from the product page.
+This is a Stripe **test-mode** Payment Link. Use it to verify the rail and buyer flow. Replace it with a live-mode Stripe Payment Link before claiming live payment collection.
 
 Recommended fastest rails:
 1. Stripe Payment Link
@@ -66,7 +66,7 @@ https://github.com/Kingomnigod/pod-profit-scout/issues
 Use this Markdown button once the checkout URL is real:
 
 ```md
-[Buy the POD Launch Audit Kit — $19](https://github.com/Kingomnigod)
+[Buy the POD Launch Audit Kit — $19](https://buy.stripe.com/test_8x2eVegjY0mE8QEfASd3i00)
 ```
 
 ## Setup service intake
@@ -81,4 +81,4 @@ For the $99 setup service, ask the buyer to open a GitHub Issue with:
 
 ## Verification status
 
-The product is staged and functional locally. Payment is not live until this contact/support URL is replaced with a real provider checkout URL.
+The product is staged and functional locally. Payment is not live until the placeholder checkout URL is replaced with a real provider URL.

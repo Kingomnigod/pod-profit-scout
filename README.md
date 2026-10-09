@@ -51,9 +51,9 @@ GitHub does not work like Etsy for ordinary digital files. For fastest cash, use
 
 **$19 POD Launch Audit Kit**
 
-[Buy the POD Launch Audit Kit — $19](https://github.com/Kingomnigod)
+[Buy the POD Launch Audit Kit — $19](https://buy.stripe.com/test_8x2eVegjY0mE8QEfASd3i00)
 
-Stripe is the preferred direct checkout rail, but it is not connected yet in StarNet. Until Stripe is connected, use this GitHub profile link as the public buyer contact/support rail and replace it with a Stripe Payment Link when the Stripe connector/API key is connected.
+Stripe checkout is now wired with the current test-mode Stripe Payment Link. Use this link for test purchases and replace it with a live-mode Stripe Payment Link before claiming live payment collection.
 
 Includes:
 - This readiness checker

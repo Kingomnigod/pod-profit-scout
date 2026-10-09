@@ -28,9 +28,9 @@ Optional setup service: **$99**
 
 ## How to buy
 
-[Contact / support through GitHub](https://github.com/Kingomnigod)
+[Buy with Stripe — $19](https://buy.stripe.com/test_8x2eVegjY0mE8QEfASd3i00)
 
-Stripe is the intended direct checkout rail, but it is not connected yet. Until it is connected, this GitHub profile link is the public contact/support rail linked from the product page.
+This checkout is wired with the current Stripe test-mode Payment Link. Use it for test purchases and replace it with a live-mode Stripe Payment Link before claiming live payment collection.
 
 ## Delivery
 
