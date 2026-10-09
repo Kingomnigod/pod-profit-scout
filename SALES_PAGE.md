@@ -28,9 +28,9 @@ Optional setup service: **$99**
 
 ## How to buy
 
-[Buy the POD Launch Audit Kit — $19](https://example.com/checkout/pod-launch-audit-kit)
+[Support / buy through GitHub Sponsors](https://github.com/sponsors/Kingomnigod)
 
-This is the checkout rail placeholder. Replace it with one real payment link from Stripe, Gumroad, Lemon Squeezy, Ko-fi, Buy Me a Coffee, or GitHub Sponsors.
+Stripe is the intended direct checkout rail, but it is not connected yet. Until it is connected, GitHub Sponsors is the GitHub-native payment/support rail linked from the product page.
 
 ## Delivery
 

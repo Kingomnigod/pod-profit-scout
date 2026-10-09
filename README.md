@@ -51,9 +51,9 @@ GitHub does not work like Etsy for ordinary digital files. For fastest cash, use
 
 **$19 POD Launch Audit Kit**
 
-[Buy the POD Launch Audit Kit — $19](https://example.com/checkout/pod-launch-audit-kit)
+[Buy the POD Launch Audit Kit — $19](https://github.com/sponsors/Kingomnigod)
 
-This placeholder should be replaced with one real payment link from Stripe, Gumroad, Lemon Squeezy, Ko-fi, Buy Me a Coffee, or GitHub Sponsors. The repo is ready to sell as soon as that URL is live.
+Stripe is the preferred direct checkout rail, but it is not connected yet in StarNet. Until Stripe is connected, GitHub Sponsors is the live GitHub-native support rail for taking paid support from the repo. Replace this URL with a Stripe Payment Link when the Stripe connector/API key is connected.
 
 Includes:
 - This readiness checker
